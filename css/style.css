@@ -220,12 +220,12 @@ header{
     font-size: 15px;
     font-weight: 600;
     color: #000;
-    border: solid 2px #ea0026;
+    border: solid 2px #FD6D86;
     border-radius: 50px;
     padding: 11px 45px;
     text-decoration: none;
     /* Old browsers */
-    background: linear-gradient(to right, #ea0026 50%, white  50%);
+    background: linear-gradient(to right, #FD6D86 50%, white  50%);
     background-size: 202% 100%;
     background-position:right bottom;
     margin-left:10px;
@@ -325,6 +325,7 @@ header{
 .home .home-content p span{
     color: #000;
     font-weight: 900;
+
 }
 
 .home .home-content .social{
@@ -342,7 +343,7 @@ header{
 
 .home .home-content .social a{
     display: block;
-    color: #000;
+    color: #02385E;
     font-size: 13px;
     margin-top: 10px;
     float: left;
@@ -410,7 +411,7 @@ header{
 }
 
 .portfolio .portfolio-filter .cbp-filter-item-active{
-    color: #000 !important;
+    color: #02385E !important;
 }
 
 .portfolio .grid-container .cbp-item img{
@@ -472,7 +473,7 @@ header{
   opacity: 0;
   width: 100%;
   padding: 0;
-  color: #fff;
+  color: #F5907C;
   -webkit-transform: translateY(-40px);
  transform: translateY(-40px);
     -webkit-box-sizing: border-box;
@@ -521,7 +522,7 @@ header{
     color: #000 !important;
     font-family: 'Montserrat', sans-serif !important;
     border-radius: 50px;
-    background: linear-gradient(to right, #ea0026 50%, white  50%);
+    background: linear-gradient(to right, #F5907C 50%, white  50%);
     background-size: 202% 100%;
     background-position:right bottom;
     margin-left:10px;
@@ -867,7 +868,7 @@ header.white .nav-icon span {
 
 .full-menu .full-inner .full-contact ul li{
     font-size: 20px;
-    color: #4f535f;
+    color: #F5907C;
     font-weight: 600;
 }
 
@@ -1201,7 +1202,7 @@ footer .getintouch strong{
 .news-box .title{
     font-size: 22px;
     font-weight: bold;
-    color: #000;
+    color: #02385E;
 }
 
 .news-box small{
@@ -1216,7 +1217,7 @@ footer .getintouch strong{
 
 .news-box .information{
     font-size: 13px;
-    color: #000;
+    color: #F5907C;
 }
 
 .news-box .information span{
